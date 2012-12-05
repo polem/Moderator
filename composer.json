@@ -1,0 +1,15 @@
+{
+    "name": "paulemileminy/moderator",
+    "require": {
+        "guzzle/guzzle": "*"
+    },
+    "autoload": {
+        "psr-0": {"Moderator": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Paul-Emile MINY",
+            "email": "paulemile.miny@gmail.com"
+        }
+    ]
+}
