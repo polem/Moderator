@@ -1,8 +1,8 @@
 Moderator
 ---------
 
-This is an expirimental PHP 5.3 librairy for moderating your user
-submitted content using these services :
+This is an experimental PHP 5.3 library for moderating your user
+submitted contents using these services :
 
 * `Mollom`
 * `Akismet` (Not implemented)
